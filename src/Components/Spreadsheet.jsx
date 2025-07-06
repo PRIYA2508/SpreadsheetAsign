@@ -2,6 +2,7 @@ import { Buttons } from "./Buttons";
 import { HeaderBar } from "./Header";
 import { JobStatus } from "./JobStatus";
 import { Overview } from "./Overview";
+import { SpreadsheetTable } from "./SpreadsheetTable";
 
 export function Spreadsheet(){
     return(
@@ -13,6 +14,9 @@ export function Spreadsheet(){
          </div>
          <div>
            <JobStatus/> 
+         </div>
+         <div>
+          <SpreadsheetTable/>
          </div>
         </div>
     )

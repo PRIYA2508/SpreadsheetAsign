@@ -9,7 +9,7 @@ export const SpreadsheetData = [
       Assigned:"Sophie Choudhary",
       Priority: "Medium",
       DueDate:"20-11-2024",
-      EstValue:"6,200,000₹"
+      Value:"6,200,000₹"
     },
     {
       id:"2",
