@@ -3,10 +3,10 @@ export const SpreadsheetData = [
       id:"1",
       JobRequest: "Launch social media campaign for promotion",
       Submitted:"15-11-2024",
-      Status: "In Progress",
+      Status: "In-process",
       Submitter:"Aisha Patel",
       URL:"www.aishapatel23@gmail.com",
-      Assigned:"Sophie Choudhary",
+      Assigned:"Sophie Lee",
       Priority: "Medium",
       DueDate:"20-11-2024",
       Value:"6,200,000₹"
@@ -25,7 +25,7 @@ export const SpreadsheetData = [
     },
     {
     id:"3",
-    JobRequest: "Finalize user testing feedback for app",
+    JobRequest: "Finalize user testing feedback for app redesign",
     Submitted: "05-12-2024",
     Status: "In-process",
     Submitter: "Mark Johnson",
@@ -58,6 +58,37 @@ export const SpreadsheetData = [
     Priority: "Low",
     DueDate: "30-01-2025",
     Value: "2,800,000 ₹",
-  }   
+  },
+  {
+    id:"6",
+  },
+  {
+    id:"7",
+  },
+  {
+    id:"8",
+  },
+  {
+    id:"9",
+  },
+  {
+    id:"10",
+  },
+  {
+    id:"11",
+  },
+  {
+    id:"12",
+  },{
+    id:"13",
+  },
+  {
+    id:"14",
+  },
+  {
+    id:"15",
+  }
+
+
 ];
   
