@@ -1,6 +1,6 @@
 import { Buttons } from "./Buttons";
-import SpreadsheetTable from "./Content";
 import { HeaderBar } from "./Header";
+import { JobStatus } from "./JobStatus";
 import { Overview } from "./Overview";
 
 export function Spreadsheet(){
@@ -12,7 +12,7 @@ export function Spreadsheet(){
             <Overview/>
          </div>
          <div>
-            <SpreadsheetTable/>
+           <JobStatus/> 
          </div>
         </div>
     )
