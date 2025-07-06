@@ -3,7 +3,7 @@ import hamburger from "../assets/hamburger.png"
 export function HeaderBar() {
   return (
     <div>
-    <div className="flex justify-between px-2 py-2 border items-center">
+    <div className="flex justify-between px-2 py-2 border border-gray-200 items-center">
       <div className="flex gap-3 items-center">
       <img src={hamburger} className="w-4 "/>
        <span className="font-light text-gray-400">Workspace </span>
